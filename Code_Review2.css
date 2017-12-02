@@ -1,0 +1,93 @@
+body {
+	background-color: #E5EAEE;
+	font-family: Arial;
+	align-content: center;
+}
+.images {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	width: 100%;
+	margin-top: 25px;
+	margin-left: 20px;
+
+}
+
+.london {
+	margin-left: 50px;
+	font-family: Arial;
+	margin-bottom: 0px;
+
+}
+.united h2 {
+	margin-bottom: 0px;
+	color: #219CCC;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+.united h3 {
+	margin-top: 0px;
+	color: #878787;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+.amsterdam {
+	font-family: Arial;
+	margin-bottom: 0px;
+
+}
+
+.netherlands h2 {
+	margin-bottom: 0px;
+	color: #219CCC;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+.netherlands h3 {
+	margin-top: 0px;
+	color: #878787;
+	font-family: Arial;
+	font-weight: normal;
+}
+.header {
+	display: inline-flex;
+	flex-wrap: wrap;
+	background-color: #05387E;
+	width: 100%;
+	color: white;
+}
+#logo {
+	width: 40px;
+	height: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+
+}
+#img1 {
+	height: 300px;
+	width: 400px;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+#img2 {
+	height: 300px;
+	width: 400px;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.price {
+	margin-left: 20px;
+}
+.netherlands{
+	margin-left: 30px;
+	padding-top: 5px;
+	
+}
+.united {
+	margin-left: 30px;
+	padding-top: ;
+
+}
