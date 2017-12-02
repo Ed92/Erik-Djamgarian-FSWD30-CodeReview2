@@ -88,6 +88,86 @@ body {
 }
 .united {
 	margin-left: 30px;
-	padding-top: ;
 
+}
+
+.united12 {
+	flex-wrap: wrap;
+	display: flex;
+}
+
+
+.netherlands2 h2 {
+	font-family: Verdana;
+	color: #616364;
+	font-size: 18.5px;
+	font-weight: 100;
+	display: block;
+
+
+}
+.netherlands2 h3 {
+	font-family: Verdana;
+	color: #616364;
+	font-size: 18.5px;
+	font-weight: 100;
+	display: block;
+}
+.united2 {
+	margin-left: 150px;
+}
+.netherlands2 {
+	margin-left: 100px;
+}
+.capital {
+	background-color: white;
+}
+
+.united2 h3{
+	font-family: Verdana;
+	color: #616364;
+	font-size: 18.5px;
+	font-weight: 100;
+	display: block;
+}
+.united2 h2 {
+	font-family: Verdana;
+	color: #616364;
+	font-size: 18.5px;
+	font-weight: 100;
+	display: block ;
+
+}
+
+.middle {
+	font-family: Verdana;
+	margin-left: 25px;
+	text-align: center ;
+	width: 100% ;
+	font-size: 21px ;
+
+}
+.middle NY {
+	font-size: 50px;
+}
+.middle difference {
+	text-align: center;
+	font-size: 20px;
+}
+.square  p{
+	display: flex;
+	flex-wrap: wrap;
+	border-radius: 10px;
+	background-color: #2CA7D1;
+	text-align: center;
+	color: white;
+	margin-right: auto;
+	margin-left: auto;
+	width: 110px;
+	padding-left: 20px;
+	height: 40px ;
+	font-family: verdana ;
+	font-size: 25px ;
+	padding-top: 8px ;
+	padding-left: 25px ;
 }
