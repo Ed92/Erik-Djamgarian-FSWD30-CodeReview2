@@ -16,6 +16,7 @@ var averagea = [amsterdam/4];
 console.log(averagea);
 document.getElementById("nl").innerHTML = averagea();
 
+
 var lnd1 = 2500;
 var lnd2 = 1500;
 var lnd3 = 1000;
@@ -25,6 +26,12 @@ console.log(london);
 var averagel = [london/4];
 console.log(averagel);
 document.getElementById("ad").innerHTML = averagel();
+
+
+var diff = [averagel - averagea];
+console.log(diff);
+document.getElementById("total").innerHTML = diff();
+
 
 
 
