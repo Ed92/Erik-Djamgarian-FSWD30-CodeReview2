@@ -103,6 +103,7 @@ body {
 	font-size: 18.5px;
 	font-weight: 100;
 	display: block;
+	padding-left: 70px;
 
 
 }
@@ -112,6 +113,7 @@ body {
 	font-size: 18.5px;
 	font-weight: 100;
 	display: block;
+	padding-bottom: 10px;
 }
 .united2 {
 	margin-left: 150px;
@@ -121,6 +123,7 @@ body {
 }
 .capital {
 	background-color: white;
+
 }
 
 .united2 h3{
@@ -129,6 +132,8 @@ body {
 	font-size: 18.5px;
 	font-weight: 100;
 	display: block;
+	margin-right: 5px;
+	padding-bottom: 10px;
 }
 .united2 h2 {
 	font-family: Verdana;
@@ -136,12 +141,13 @@ body {
 	font-size: 18.5px;
 	font-weight: 100;
 	display: block ;
+	padding-left: 50px;
 
 }
 
 .middle {
 	font-family: Verdana;
-	margin-left: 25px;
+	margin-left: 10px;
 	text-align: center ;
 	width: 100% ;
 	font-size: 21px ;
@@ -169,5 +175,5 @@ body {
 	font-family: verdana ;
 	font-size: 25px ;
 	padding-top: 8px ;
-	padding-left: 25px ;
+	padding-left: 40px ;
 }
